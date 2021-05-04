@@ -23,7 +23,7 @@
 
 ## 👨🏻‍💻 Status
 
-In Progress
+Finished
 
 ## 🧪 Technologies
 
@@ -41,7 +41,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/JorgeFPeres/Google-Docs-Clone && cd Google-Docs-Clone/server
+$ git clone https://github.com/JorgeFPeres/Google-Docs-Clone.git && cd Google-Docs-Clone/server
 ```
 
 Follow the steps below
@@ -55,7 +55,7 @@ $ npm run devStart
 ```
 
 ```bash
-$ git clone https://github.com/JorgeFPeres/Google-Docs-Clone && cd Google-Docs-Clone/client
+$ git clone https://github.com/JorgeFPeres/Google-Docs-Clone.git && cd Google-Docs-Clone/client
 ```
 
 Follow the steps below
